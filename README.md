@@ -2,6 +2,10 @@
  # It a basic M.E.R.N. application which provides CRUD (Create,Read,Update,Delete) functionality.
  
  #
+ ![Screenshot (172)](https://user-images.githubusercontent.com/64853573/184580003-38f53634-d1c1-4e08-9ff7-987347e20bc6.png)
+#
+#
+ 
 ![Screenshot (167)](https://user-images.githubusercontent.com/64853573/184551985-f2aa0fe1-9c46-47b1-8a0e-2b1ad46323f5.png)
 #
 #
