@@ -1,8 +1,10 @@
 ﻿# Book-Store
- # It a basic M.E.R.N. application which provides CRUD (Create,Read,Update,Delete) functionality.
+ 
+ ### Introduction
+ It is a basic M.E.R.N. application which provides CRUD(Create,Read,Update,Delete) functionalities. It uses Material UI to display the available books in database. 
  
  #
- ![Screenshot (172)](https://user-images.githubusercontent.com/64853573/184580003-38f53634-d1c1-4e08-9ff7-987347e20bc6.png)
+ ![Screenshot (175)](https://user-images.githubusercontent.com/64853573/184589755-ef7fcd61-ea2a-49e2-b9d9-73ff90679d61.png)
 #
 #
  
@@ -15,3 +17,5 @@
 #
 ![Screenshot (168)](https://user-images.githubusercontent.com/64853573/184552011-d6b2444b-e05b-49b9-9761-b68dff418adb.png)
 
+#
+<b>Setup:</b> run <code><b>npm start</b></code> to start the development server
